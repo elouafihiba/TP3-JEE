@@ -12,9 +12,7 @@ import java.util.List;
 
 @SpringBootApplication
 public class Tp3JeeApplication {
-
     public static void main(String[] args) {
-
         SpringApplication.run(Tp3JeeApplication.class, args);
     }
     @Bean
