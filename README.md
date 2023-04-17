@@ -1,6 +1,6 @@
 <h3>Compte Rendu Tp3</h3>
 <p>
-On considère le schéma suivant<br>
+Spring MVC Architecture<br>
 <center><img src="assets/0.PNG"></center>
 
 1-Afficher les patients:<br>
