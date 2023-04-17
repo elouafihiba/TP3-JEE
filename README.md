@@ -1,9 +1,9 @@
 <h3>Compte Rendu Tp3</h3>
 <p>
 On considère le schéma suivant<br>
-<center><img src="github/assets/"></center>
+<center><img src="assets/0.PNG"></center>
 
-1-Afficher les patients:
+1-Afficher les patients:<br>
 Entity Patient:
 <center><img src="assets/1.PNG"></center>
 
